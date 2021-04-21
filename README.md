@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 currently working on my skills.
-- 🌱 learning Python, C, C++, JAVA, Linux.
+- 🌱 learning Python, C, C++, JAVA, ASM, Linux.
 - 👯 looking to collaborate on any project.
 - 🤔 I’m looking for help with writing clean code.
 - 💬 Ask me about anything.
