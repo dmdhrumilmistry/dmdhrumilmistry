@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my skills.
-- 🌱 I’m currently learning Python, C, C++, JAVA, Linux.
-- 👯 I’m looking to collaborate on any project.
+- 🔭 currently working on my skills.
+- 🌱 learning Python, C, C++, JAVA, Linux.
+- 👯 looking to collaborate on any project.
 - 🤔 I’m looking for help with writing clean code.
 - 💬 Ask me about anything.
 - 😄 Pronouns: He/Him
