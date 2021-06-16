@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with writing clean code.
 - 💬 Ask me about anything.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Users provide their data to the companies for free of cost by accepting their policies.
 
 <p align ="left">
   <a target="_blank"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dmdhrumilmistry&theme=chartreuse-dark&show_icons=true"></a>
