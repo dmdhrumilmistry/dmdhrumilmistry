@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 
 <p align ="left">
-  <a target="_blank"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dmdhrumilmistry&theme=chartreuse-dark&show_icons=true"></a>
+<!--   <a target="_blank"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dmdhrumilmistry&theme=chartreuse-dark&show_icons=true"></a> -->
   <a target="_blank"><img src = "https://github-readme-stats.vercel.app/api?username=dmdhrumilmistry&theme=chartreuse-dark&show_icons=true"></a>
 </p>
 
