@@ -1,11 +1,12 @@
-### Hi there 👋
+## Hello Visitor 👋
+It's good to see you here.
+Since you're here, I would like to mention do [visit my webpage](https://dmdhrumilmistry.github.io) 
 
+### Few Info About Me : 
 - 🔭 currently working on my skills.
 - 🌱 learning Python, C, C++, JAVA, ASM, Linux.
-- 👯 looking to collaborate on any project.
+- 👯 looking forward to collaborate on any project.
 - 🤔 I’m looking for help with writing clean code.
-- 💬 Ask me about anything.
-- 😄 Pronouns: He/Him
 
 <p align ="left">
 <!--   <a target="_blank"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dmdhrumilmistry&theme=chartreuse-dark&show_icons=true"></a> -->
