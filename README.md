@@ -4,9 +4,8 @@ Since you're here, I would like to mention do [visit my webpage](https://dmdhrum
 
 ### Few Info About Me : 
 - 🔭 currently working on my skills.
-- 🌱 learning Python, C, C++, JAVA, ASM, Linux.
-- 👯 looking forward to collaborate on any project.
-- 🤔 I’m looking for help with writing clean code.
+- 🌱 learning Python, C, C++, ASM, JAVA, Shell, Linux.
+- 👯 looking forward to collaborate on any project where I can learn new concepts.
 
 <p align ="left">
 <!--   <a target="_blank"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dmdhrumilmistry&theme=chartreuse-dark&show_icons=true"></a> -->
@@ -19,8 +18,8 @@ Since you're here, I would like to mention do [visit my webpage](https://dmdhrum
   <a href = "https://github.com/dmdhrumilmistry" target="_blank"><img src = "https://img.shields.io/badge/Github-dmdhrumilmistry-333"></a>
   <a href = "https://www.instagram.com/dmdhrumilmistry/" target="_blank"><img src = "https://img.shields.io/badge/Instagram-dmdhrumilmistry-833ab4"></a>
   <a href = "https://twitter.com/dmdhrumilmistry" target="_blank"><img src = "https://img.shields.io/badge/Twitter-dmdhrumilmistry-4078c0"></a><br>
-  <a href = "https://dhrumilmistrywrites.blogspot.com/" target="_blank"><img src = "https://img.shields.io/badge/YouTube-Dhrumil%20Mistry-critical"></a>
-  <a href = "https://www.youtube.com/channel/UChbjrRvbzgY3BIomUI55XDQ" target="_blank"><img src = "https://img.shields.io/badge/Blog-Dhrumil%20Mistry-bd2c00"></a>
+  <a href = "https://www.youtube.com/channel/UChbjrRvbzgY3BIomUI55XDQ" target="_blank"><img src = "https://img.shields.io/badge/YouTube-Dhrumil%20Mistry-critical"></a>
+  <a href = "https://dhrumilmistrywrites.blogspot.com/" target="_blank"><img src = "https://img.shields.io/badge/Blog-Dhrumil%20Mistry-bd2c00"></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dmdhrumilmistry&label=PROFILE+VIEWS)
