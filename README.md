@@ -1,4 +1,5 @@
 ## Hello Visitor 👋
+![Greet](https://github.com/dmdhrumilmistry/dmdhrumilmistry/blob/use-gif/.images/greet.gif?raw=True)
 It's good to see you here.
 Since you're here, I would like to mention do [visit my webpage](https://dmdhrumilmistry.github.io) 
 
