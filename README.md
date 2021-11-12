@@ -13,7 +13,7 @@ Since you're here, I would like to mention do [visit my webpage](https://dmdhrum
   <a target="_blank"><img src = "https://github-readme-stats.vercel.app/api?username=dmdhrumilmistry&theme=chartreuse-dark&show_icons=true"></a>
 </p>
 
-[![Linkedin: dmdhrumilmistry](https://img.shields.io/badge/-dmdhrumilmistry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhrumil-mistry-312966192/)](https://www.linkedin.com/in/dhrumil-mistry-312966192/)
+[![Linkedin: dmdhrumilmistry](https://img.shields.io/badge/-dmdhrumilmistry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmdhrumilmistry/)](https://www.linkedin.com/in/dmdhrumilmistry/)
 [![GitHub : dmdhrumilmistry](https://img.shields.io/github/followers/dmdhrumilmistry?label=follow&style=social)](https://github.com/dmdhrumilmistry)
 <p align ="left">
   <a href = "https://github.com/dmdhrumilmistry" target="_blank"><img src = "https://img.shields.io/badge/Github-dmdhrumilmistry-333"></a>
