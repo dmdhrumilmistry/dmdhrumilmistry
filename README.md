@@ -8,10 +8,10 @@ Since you're here, I would like to mention do [visit my webpage](https://dmdhrum
 - 🌱 learning Python, C, C++, ASM, JAVA, Shell, Linux.
 - 👯 looking forward to collaborate on any project where I can learn new concepts.
 
-<!-- <p align ="left"> -->
+<p align ="left">
 <!--   <a target="_blank"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dmdhrumilmistry&theme=chartreuse-dark&show_icons=true"></a> -->
-<!--   <a target="_blank"><img src = "https://github-readme-stats.vercel.app/api?username=dmdhrumilmistry&theme=chartreuse-dark&show_icons=true"></a> -->
-<!-- </p> -->
+  <a target="_blank"><img src = "https://github-readme-stats.vercel.app/api?username=dmdhrumilmistry&theme=chartreuse-dark&show_icons=true"></a>
+</p>
 
 [![Linkedin: dmdhrumilmistry](https://img.shields.io/badge/-dmdhrumilmistry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmdhrumilmistry/)](https://www.linkedin.com/in/dmdhrumilmistry/)
 [![GitHub : dmdhrumilmistry](https://img.shields.io/github/followers/dmdhrumilmistry?label=follow&style=social)](https://github.com/dmdhrumilmistry)
