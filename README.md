@@ -5,8 +5,13 @@ Since you're here, I would like to mention do [visit my webpage](https://dmdhrum
 
 ### Few Info About Me : 
 - 🔭 currently working on my skills.
-- 🌱 learning Python, C, C++, ASM, JAVA, Shell, Linux.
+- 🌱 learning
+
+[![Arduino](https://img.icons8.com/color/96/000000/arduino.png)](https://www.arduino.cc/) [![Raspberry Pi](https://img.icons8.com/color/96/000000/raspberry-pi.png)]() [![Python](https://img.icons8.com/color/96/000000/python--v1.png)](https://www.python.org/) [![C](https://img.icons8.com/color/96/000000/c-programming.png)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++](https://img.icons8.com/color/96/000000/c-plus-plus-logo.png)](https://isocpp.org/)  [![JAVA](https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png)](https://www.java.com/en/) [![Shell](https://img.icons8.com/plasticine/100/000000/bash.png)](https://en.wikipedia.org/wiki/Shell_script) [![Linux](https://img.icons8.com/color/96/000000/linux--v2.png)](https://www.linux.org/) [![Docker](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/) [![IOT](https://img.icons8.com/external-soft-fill-juicy-fish/96/000000/external-iot-internet-of-things-soft-fill-soft-fill-juicy-fish.png)](https://en.wikipedia.org/wiki/Internet_of_things) [![Networking](https://img.icons8.com/external-itim2101-lineal-color-itim2101/96/000000/external-computer-networks-network-technology-itim2101-lineal-color-itim2101-1.png)](https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-computer-networking.html) ASM and others.
+
 - 👯 looking forward to collaborate on any project where I can learn new concepts.
+<!-- - Few Badges -->
+  
 
 <p align ="left">
 <!--   <a target="_blank"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dmdhrumilmistry&theme=chartreuse-dark&show_icons=true"></a> -->
