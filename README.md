@@ -22,7 +22,7 @@ ASM and few other technologies.
 - 👯 looking forward to collaborate on any project where I can learn new concepts.
 
 ## Need more info on me?
-Visit My Website [Weblink](https://dmdhrumilmistry.github.io)
+Visit My [WebSite](https://dmdhrumilmistry.github.io)
 
 ## Badges
 
