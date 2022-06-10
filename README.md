@@ -46,7 +46,7 @@ Visit My [WebSite](https://dmdhrumilmistry.github.io)
 
 |Stats|
 |:---:|
-|![Github Stats](https://github-readme-stats.vercel.app/api?username=dmdhrumilmistry&theme=chartreuse-dark&show_icons=true)|
+|![Github Stats](https://github-readme-stats.vercel.app/api?username=dmdhrumilmistry&count_private=true&hide_rank=true&include_all_commits=true&cache_seconds=1800&border_radius=15&&theme=dark)|
 |![Profile Views](https://komarev.com/ghpvc/?username=dmdhrumilmistry&label=PROFILE+VIEWS)|
 
 
