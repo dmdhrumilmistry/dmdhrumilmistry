@@ -55,5 +55,5 @@ Visit My [WebSite](https://dmdhrumilmistry.github.io)
 |:----:|:---:|
 |[![GithubBadge](https://img.shields.io/badge/Github-dmdhrumilmistry-333)](https://github.com/dmdhrumilmistry)|[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrumil%20Mistry-4078c0)](https://linkedin.com/in/dmdhrumilmistry)|
 |[![Instagram](https://img.shields.io/badge/Instagram-dmdhrumilmistry-833ab4)](https://www.instagram.com/dmdhrumilmistry/)|[![Twitter](https://img.shields.io/badge/Twitter-dmdhrumilmistry-4078c0)](https://twitter.com/dmdhrumilmistry)|
-|[![YouTube](https://img.shields.io/badge/YouTube-Dhrumil%20Mistry-critical)](https://www.youtube.com/channel/UChbjrRvbzgY3BIomUI55XDQ)|[![BlogSpot](https://img.shields.io/badge/Blog-Dhrumil%20Mistry-bd2c00)](https://dhrumilmistrywrites.blogspot.com/)|
+|[![YouTube](https://img.shields.io/badge/YouTube-Dhrumil%20Mistry-critical)](https://www.youtube.com/channel/UChbjrRvbzgY3BIomUI55XDQ)|[![BlogSpot](https://img.shields.io/badge/Blog-Dhrumil%20Mistry-bd2c00)](https://dmdhrumilmistry.github.io/blog)|
 
