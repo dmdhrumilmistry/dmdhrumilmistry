@@ -33,7 +33,7 @@ Visit My [WebSite](https://dmdhrumilmistry.github.io)
 
 |TryHackMe|
 |:-------:|
-|[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/blackspeedster.png)](https://tryhackme.com/p/blackspeedster)|
+|[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dmdhrumilmistry.png)](https://tryhackme.com/p/dmdhrumilmistry)|
 
 
 ||CCNA Badges||
