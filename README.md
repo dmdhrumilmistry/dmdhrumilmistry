@@ -1,11 +1,22 @@
 # Hello Visitor 👋
 
-![Greet](https://github.com/dmdhrumilmistry/dmdhrumilmistry/blob/use-gif/.images/greet.gif?raw=True)
+![Greet](https://github.com/dmdhrumilmistry/dmdhrumilmistry/blob/main/.images/greet.gif?raw=True)
 
 It's good to see you on my page!
 
+### Are you a machine :robot:? Then refer below Data on me
 
-### Few Info About Me : 
+```json
+{
+  "name":"Dhrumil Mistry",
+  "username":"dmdhrumilmistry",
+  "languages":["ASM", "C", "C++", "Python", "JAVA", "Go"],
+  "hacking":["Web-security", "API-security", "Network-security", "Malware-Dev", "Reverse-Engineer"],
+  "proficiency":["Linux", "Docker", "Git", "Virtualization", "Arduino", "Python", "Shell-Scripting", "Computer-Networking", "IOT"]
+}
+```
+
+### This Section is for Humans:
 
 - 🔭 currently working on my skills.
 - 🌱 learning    
