@@ -17,7 +17,7 @@ It's good to see you on my page!
     "fiverr":"https://www.fiverr.com/dhrumilmistry00",
     "email":"contact@dmdhrumilmistry.tech"
   },
-  "services":["API pentest", "VAPT", "Network Security", "Vulnerability Assessment", "Android Applicaiton Pentest"],
+  "services":["API pentest", "VAPT", "Network Security", "Android Application Pentest"],
   "sponsorships":{
     "github":"https://github.com/sponsors/dmdhrumilmistry",
     "patreon":"https://www.patreon.com/dmdhrumilmistry"
@@ -49,6 +49,20 @@ ASM and few other technologies.
 Visit My [WebSite](https://dmdhrumilmistry.github.io)
 
 
+## Freelancing Services
+
+- API Pentest
+- VAPT
+- Network Security
+- Android Application Pentest
+
+
+## Freelancing Contact Methods
+
+- [Fiverr](https://www.fiverr.com/dhrumilmistry00)
+- [Email](mailto:contact@dmdhrumilmistry.tech)
+
+
 ## Badges
 
 |TryHackMe|
@@ -59,7 +73,6 @@ Visit My [WebSite](https://dmdhrumilmistry.github.io)
 ||CCNA Badges||
 |:---------:|:---------:|:---------:|
 |[![CCNA-1](https://images.credly.com/size/200x200/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/612ec8ab-6f29-44c2-9b90-5aa89a467e8c/public_url)|[![CCNA-2](https://images.credly.com/size/200x200/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](https://www.credly.com/badges/df0ab464-fcf2-451c-be9d-35140e4e52cf/public_url)|[![CCNA-3](https://images.credly.com/size/200x200/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](https://www.credly.com/badges/635c2c9f-7615-4457-9aba-714416867f0a/public_url)|
-
 
 
 ## Profile Statistics
