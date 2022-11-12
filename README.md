@@ -12,7 +12,16 @@ It's good to see you on my page!
   "username":"dmdhrumilmistry",
   "languages":["ASM", "C", "C++", "Python", "JAVA", "Go"],
   "hacking":["Web-security", "API-security", "Network-security", "Malware-Dev", "Reverse-Engineer"],
-  "proficiency":["Linux", "Docker", "Git", "Virtualization", "Arduino", "Python", "Shell-Scripting", "Computer-Networking", "IOT"]
+  "proficiency":["Linux", "Docker", "Git", "Virtualization", "Arduino", "Python", "Shell-Scripting", "Computer-Networking", "IOT"],
+  "freelancing":{
+    "fiverr":"https://www.fiverr.com/dhrumilmistry00",
+    "email":"contact@dmdhrumilmistry.tech"
+  },
+  "services":["API pentest", "VAPT", "Network Security", "Vulnerability Assessment", "Android Applicaiton Pentest"],
+  "sponsorships":{
+    "github":"https://github.com/sponsors/dmdhrumilmistry",
+    "patreon":"https://www.patreon.com/dmdhrumilmistry"
+   }
 }
 ```
 
