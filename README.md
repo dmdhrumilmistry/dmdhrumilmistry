@@ -20,7 +20,12 @@ It's good to see you on my page!
   "services":["API pentest", "VAPT", "Network Security", "Android Application Pentest"],
   "sponsorships":{
     "github":"https://github.com/sponsors/dmdhrumilmistry",
-    "patreon":"https://www.patreon.com/dmdhrumilmistry"
+    "patreon":"https://www.patreon.com/dmdhrumilmistry",
+    "cyrptoWalletAddresses":{
+      "BTC": "bc1qzpjm6k266fd9wd0rw360hhgyrvhdy09vsx64hc",
+      "BCH": "qpz8lm27mt676g88vr4rqkxgynhlzx7ykg4feyage6",
+      "ETH": "0x96B55865fED27e5437c8b4ce6a6ABB7F3fE4ef3D"
+    }
    }
 }
 ```
@@ -42,6 +47,16 @@ It's good to see you on my page!
 [![Networking](https://img.icons8.com/external-itim2101-lineal-color-itim2101/96/000000/external-computer-networks-network-technology-itim2101-lineal-color-itim2101-1.png)](https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-computer-networking.html)    
 ASM and few other technologies.
 - 👯 looking forward to collaborate on any project where I can learn new concepts.
+- Sponsor Me 💝 using:
+  - [Github Sponsor](https://github.com/sponsors/dmdhrumilmistry)
+  - [Patreon](https://www.patreon.com/dmdhrumilmistry)
+  - Cyrpto Wallets Addresses
+  
+    |CryptoName|Wallet Address|
+    |:--------:|:------------:|
+    |BTC|bc1qzpjm6k266fd9wd0rw360hhgyrvhdy09vsx64hc|
+    |BCH|qpz8lm27mt676g88vr4rqkxgynhlzx7ykg4feyage6|
+    |ETH|0x96B55865fED27e5437c8b4ce6a6ABB7F3fE4ef3D|
 
 
 ## Need more info on me?
@@ -84,6 +99,7 @@ Visit My [WebSite](https://dmdhrumilmistry.github.io)
 
 
 ### Connect with me on:
+
 |Platforms|| 
 |:----:|:---:|
 |[![GithubBadge](https://img.shields.io/badge/Github-dmdhrumilmistry-333)](https://github.com/dmdhrumilmistry)|[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhrumil%20Mistry-4078c0)](https://linkedin.com/in/dmdhrumilmistry)|
