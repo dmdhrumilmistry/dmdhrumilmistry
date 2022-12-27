@@ -26,7 +26,7 @@ It's good to see you on my page!
       "BCH": "qpz8lm27mt676g88vr4rqkxgynhlzx7ykg4feyage6",
       "ETH": "0x96B55865fED27e5437c8b4ce6a6ABB7F3fE4ef3D"
     }
-   }
+  }
 }
 ```
 
