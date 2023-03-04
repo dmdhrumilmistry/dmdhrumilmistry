@@ -21,6 +21,7 @@ It's good to see you on my page!
   "sponsorships":{
     "github":"https://github.com/sponsors/dmdhrumilmistry",
     "patreon":"https://www.patreon.com/dmdhrumilmistry",
+    "paypal":"https://paypal.me/dmdhrumilmistry",
     "cyrptoWalletAddresses":{
       "BTC": "bc1qzpjm6k266fd9wd0rw360hhgyrvhdy09vsx64hc",
       "BCH": "qpz8lm27mt676g88vr4rqkxgynhlzx7ykg4feyage6",
@@ -50,6 +51,7 @@ ASM and few other technologies.
 - Sponsor Me 💝 using:
   - [Github Sponsor](https://github.com/sponsors/dmdhrumilmistry)
   - [Patreon](https://www.patreon.com/dmdhrumilmistry)
+  - [PayPal](https://paypal.me/dmdhrumilmistry)
   - Cyrpto Wallets Addresses
   
     |CryptoName|Wallet Address|
